@@ -13,40 +13,9 @@
 
 This repository is my learning journal while reading one of the best books on practical machine learning.
 
-Instead of simply reading chapters, I implement every concept from scratch, reproduce examples, experiment with hyperparameters, and document important observations.
+Instead of simply reading chapters, I implement every concept from scratch, reproduce examples, and document important observations.
 
 The goal is to understand **how** machine learning works—not just memorize APIs.
-
----
-
-## 🎯 What You'll Find
-
-- 📚 Chapter-wise code
-- 📝 Personal notes
-- 🧪 Small experiments
-- 📊 Data visualization
-- 🤖 Model training
-- 📈 Performance evaluation
-- 🔍 Feature engineering
-- ⚡ TensorFlow & Keras implementations
-
----
-
-# 🗂 Repository Structure
-
-```text
-Hands-On-Machine-Learning/
-│
-├── Chapter 01/
-├── Chapter 02/
-├── Chapter 03/
-├── Chapter 04/
-│
-├── datasets/
-├── images/
-├── notebooks/
-└── README.md
-```
 
 ---
 
@@ -54,7 +23,7 @@ Hands-On-Machine-Learning/
 
 | Chapter | Topic | Status |
 |---------|------|--------|
-| 1 | The Machine Learning Landscape | ⏳ |
+| 1 | The Machine Learning Landscape | ✔ |
 | 2 | End-to-End ML Project | ⏳ |
 | 3 | Classification | ⏳ |
 | 4 | Training Models | ⏳ |
@@ -89,23 +58,22 @@ Libraries used throughout the book:
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 - Scikit-Learn
 - TensorFlow
 - Keras
 - SciPy
-- Jupyter Notebook
+- Colab Notebook
 
 ---
 
 # 📌 Learning Philosophy
 
-> Reading teaches concepts.
+> Reading teaches concepts and I wanted to go fundamentally through the topics as well as learning & studying mentality.
 >
 > Writing code builds intuition.
 >
 > Experimenting creates understanding.
-
-This repository is focused on the third step.
 
 Whenever I encounter something interesting, I try changing parameters, breaking the implementation, comparing different approaches, and observing the results.
 
@@ -129,12 +97,6 @@ Whenever I encounter something interesting, I try changing parameters, breaking 
 ---
 
 # 📚 Book
-
-<p align="center">
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/81EWEgM4WmL.jpg" width="260">
-
-</p>
 
 **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd Edition)**
 
@@ -164,6 +126,6 @@ If you find it useful, consider leaving a ⭐.
 
 ### Happy Learning 👨‍💻
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
 
 </div>
